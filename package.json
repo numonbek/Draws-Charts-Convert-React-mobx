@@ -1,7 +1,7 @@
 {
   "name": "chart",
   "version": "0.1.0",
-  "homepage": "https://numonbek.github.io/draws-charts-convert-react-mobx",
+  "homepage": "https://numonbek.github.io/Draws-Charts-Convert-React-mobx",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
