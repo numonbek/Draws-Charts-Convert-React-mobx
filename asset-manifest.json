@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/draws-charts-convert-react-mobx/static/css/main.187e01ba.css",
-    "main.js": "/draws-charts-convert-react-mobx/static/js/main.df2a2262.js",
-    "index.html": "/draws-charts-convert-react-mobx/index.html",
-    "main.187e01ba.css.map": "/draws-charts-convert-react-mobx/static/css/main.187e01ba.css.map",
-    "main.df2a2262.js.map": "/draws-charts-convert-react-mobx/static/js/main.df2a2262.js.map"
+    "main.css": "/Draws-Charts-Convert-React-mobx/static/css/main.187e01ba.css",
+    "main.js": "/Draws-Charts-Convert-React-mobx/static/js/main.df2a2262.js",
+    "index.html": "/Draws-Charts-Convert-React-mobx/index.html",
+    "main.187e01ba.css.map": "/Draws-Charts-Convert-React-mobx/static/css/main.187e01ba.css.map",
+    "main.df2a2262.js.map": "/Draws-Charts-Convert-React-mobx/static/js/main.df2a2262.js.map"
   },
   "entrypoints": [
     "static/css/main.187e01ba.css",
